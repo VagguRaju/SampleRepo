@@ -1,0 +1,10 @@
+list of vegetables:
+
+1)Tomatoes
+2)Carrots
+3)Broccoli
+4)Spinach
+5)Lettuce
+6)Cabbage
+7)Potatoes
+8)Onions
